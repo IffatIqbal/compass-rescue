@@ -1,0 +1,850 @@
+[
+  {
+    "id": "572870540",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L1",
+    "hemisphere": "L",
+    "index_fix": "1",
+    "phase_rad": 0.0
+  },
+  {
+    "id": "1447576662",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L1",
+    "hemisphere": "L",
+    "index_fix": "1",
+    "phase_rad": 0.0
+  },
+  {
+    "id": "1065410141",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L8",
+    "hemisphere": "L",
+    "index_fix": "2",
+    "phase_rad": 0.7853981633974483
+  },
+  {
+    "id": "1127476096",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L8",
+    "hemisphere": "L",
+    "index_fix": "2",
+    "phase_rad": 0.7853981633974483
+  },
+  {
+    "id": "1167995070",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L8",
+    "hemisphere": "L",
+    "index_fix": "2",
+    "phase_rad": 0.7853981633974483
+  },
+  {
+    "id": "1168664495",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L8",
+    "hemisphere": "L",
+    "index_fix": "2",
+    "phase_rad": 0.7853981633974483
+  },
+  {
+    "id": "1004017998",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L7",
+    "hemisphere": "L",
+    "index_fix": "3",
+    "phase_rad": 1.5707963267948966
+  },
+  {
+    "id": "1035045015",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L7",
+    "hemisphere": "L",
+    "index_fix": "3",
+    "phase_rad": 1.5707963267948966
+  },
+  {
+    "id": "5813012006",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L7",
+    "hemisphere": "L",
+    "index_fix": "3",
+    "phase_rad": 1.5707963267948966
+  },
+  {
+    "id": "541870397",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L6",
+    "hemisphere": "L",
+    "index_fix": "4",
+    "phase_rad": 2.356194490192345
+  },
+  {
+    "id": "788794171",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L6",
+    "hemisphere": "L",
+    "index_fix": "4",
+    "phase_rad": 2.356194490192345
+  },
+  {
+    "id": "912601268",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L6",
+    "hemisphere": "L",
+    "index_fix": "4",
+    "phase_rad": 2.356194490192345
+  },
+  {
+    "id": "696362840",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L5",
+    "hemisphere": "L",
+    "index_fix": "5",
+    "phase_rad": 3.141592653589793
+  },
+  {
+    "id": "789126240",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L5",
+    "hemisphere": "L",
+    "index_fix": "5",
+    "phase_rad": 3.141592653589793
+  },
+  {
+    "id": "819828986",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L5",
+    "hemisphere": "L",
+    "index_fix": "5",
+    "phase_rad": 3.141592653589793
+  },
+  {
+    "id": "634962055",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L4",
+    "hemisphere": "L",
+    "index_fix": "6",
+    "phase_rad": 3.9269908169872414
+  },
+  {
+    "id": "665314820",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L4",
+    "hemisphere": "L",
+    "index_fix": "6",
+    "phase_rad": 3.9269908169872414
+  },
+  {
+    "id": "5813022281",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L4",
+    "hemisphere": "L",
+    "index_fix": "6",
+    "phase_rad": 3.9269908169872414
+  },
+  {
+    "id": "387364605",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L3",
+    "hemisphere": "L",
+    "index_fix": "7",
+    "phase_rad": 4.71238898038469
+  },
+  {
+    "id": "449438847",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L3",
+    "hemisphere": "L",
+    "index_fix": "7",
+    "phase_rad": 4.71238898038469
+  },
+  {
+    "id": "758419409",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L3",
+    "hemisphere": "L",
+    "index_fix": "7",
+    "phase_rad": 4.71238898038469
+  },
+  {
+    "id": "697001770",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L2",
+    "hemisphere": "L",
+    "index_fix": "8",
+    "phase_rad": 5.497787143782138
+  },
+  {
+    "id": "912545106",
+    "type": "EPG",
+    "instance": "EPG(PB08)_L2",
+    "hemisphere": "L",
+    "index_fix": "8",
+    "phase_rad": 5.497787143782138
+  },
+  {
+    "id": "5813014873",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R1",
+    "hemisphere": "R",
+    "index_fix": "1",
+    "phase_rad": 0.0
+  },
+  {
+    "id": "5813077544",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R1",
+    "hemisphere": "R",
+    "index_fix": "1",
+    "phase_rad": 0.0
+  },
+  {
+    "id": "632544268",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R2",
+    "hemisphere": "R",
+    "index_fix": "2",
+    "phase_rad": 0.7853981633974483
+  },
+  {
+    "id": "695629525",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R2",
+    "hemisphere": "R",
+    "index_fix": "2",
+    "phase_rad": 0.7853981633974483
+  },
+  {
+    "id": "478375456",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R3",
+    "hemisphere": "R",
+    "index_fix": "3",
+    "phase_rad": 1.5707963267948966
+  },
+  {
+    "id": "541118908",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R3",
+    "hemisphere": "R",
+    "index_fix": "3",
+    "phase_rad": 1.5707963267948966
+  },
+  {
+    "id": "5813080838",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R3",
+    "hemisphere": "R",
+    "index_fix": "3",
+    "phase_rad": 1.5707963267948966
+  },
+  {
+    "id": "416642425",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R4",
+    "hemisphere": "R",
+    "index_fix": "4",
+    "phase_rad": 2.356194490192345
+  },
+  {
+    "id": "633546217",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R4",
+    "hemisphere": "R",
+    "index_fix": "4",
+    "phase_rad": 2.356194490192345
+  },
+  {
+    "id": "695956656",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R4",
+    "hemisphere": "R",
+    "index_fix": "4",
+    "phase_rad": 2.356194490192345
+  },
+  {
+    "id": "694920753",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R5",
+    "hemisphere": "R",
+    "index_fix": "5",
+    "phase_rad": 3.141592653589793
+  },
+  {
+    "id": "725951521",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R5",
+    "hemisphere": "R",
+    "index_fix": "5",
+    "phase_rad": 3.141592653589793
+  },
+  {
+    "id": "5813027103",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R5",
+    "hemisphere": "R",
+    "index_fix": "5",
+    "phase_rad": 3.141592653589793
+  },
+  {
+    "id": "910438331",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R6",
+    "hemisphere": "R",
+    "index_fix": "6",
+    "phase_rad": 3.9269908169872414
+  },
+  {
+    "id": "941132434",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R6",
+    "hemisphere": "R",
+    "index_fix": "6",
+    "phase_rad": 3.9269908169872414
+  },
+  {
+    "id": "942491983",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R6",
+    "hemisphere": "R",
+    "index_fix": "6",
+    "phase_rad": 3.9269908169872414
+  },
+  {
+    "id": "1002507159",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R7",
+    "hemisphere": "R",
+    "index_fix": "7",
+    "phase_rad": 4.71238898038469
+  },
+  {
+    "id": "1002852791",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R7",
+    "hemisphere": "R",
+    "index_fix": "7",
+    "phase_rad": 4.71238898038469
+  },
+  {
+    "id": "1034219901",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R7",
+    "hemisphere": "R",
+    "index_fix": "7",
+    "phase_rad": 4.71238898038469
+  },
+  {
+    "id": "1125964814",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R8",
+    "hemisphere": "R",
+    "index_fix": "8",
+    "phase_rad": 5.497787143782138
+  },
+  {
+    "id": "1126647624",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R8",
+    "hemisphere": "R",
+    "index_fix": "8",
+    "phase_rad": 5.497787143782138
+  },
+  {
+    "id": "5813040233",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R8",
+    "hemisphere": "R",
+    "index_fix": "8",
+    "phase_rad": 5.497787143782138
+  },
+  {
+    "id": "5813061251",
+    "type": "EPG",
+    "instance": "EPG(PB08)_R8",
+    "hemisphere": "R",
+    "index_fix": "8",
+    "phase_rad": 5.497787143782138
+  },
+  {
+    "id": "1199677638",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L9",
+    "hemisphere": "L",
+    "index_fix": "1",
+    "phase_rad": 0.11527097185372359
+  },
+  {
+    "id": "1065409934",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L8",
+    "hemisphere": "L",
+    "index_fix": "2",
+    "phase_rad": 0.7853981633974483
+  },
+  {
+    "id": "1004014587",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L7",
+    "hemisphere": "L",
+    "index_fix": "3",
+    "phase_rad": 1.5707963267948966
+  },
+  {
+    "id": "881898734",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L6",
+    "hemisphere": "L",
+    "index_fix": "4",
+    "phase_rad": 2.331404262951605
+  },
+  {
+    "id": "880875861",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L5",
+    "hemisphere": "L",
+    "index_fix": "5",
+    "phase_rad": -3.1372477423326797
+  },
+  {
+    "id": "942587380",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L4",
+    "hemisphere": "L",
+    "index_fix": "6",
+    "phase_rad": -2.3526660189909134
+  },
+  {
+    "id": "974300015",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L3",
+    "hemisphere": "L",
+    "index_fix": "7",
+    "phase_rad": -1.5707963267948968
+  },
+  {
+    "id": "1190171884",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L2",
+    "hemisphere": "L",
+    "index_fix": "8",
+    "phase_rad": -0.7876731328478779
+  },
+  {
+    "id": "1128088594",
+    "type": "PEG",
+    "instance": "PEG(PB07)_L1",
+    "hemisphere": "L",
+    "index_fix": "9",
+    "phase_rad": 0.0
+  },
+  {
+    "id": "848761388",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R1",
+    "hemisphere": "R",
+    "index_fix": "1",
+    "phase_rad": 0.0
+  },
+  {
+    "id": "972555509",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R2",
+    "hemisphere": "R",
+    "index_fix": "2",
+    "phase_rad": 0.7878007906469796
+  },
+  {
+    "id": "974239375",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R3",
+    "hemisphere": "R",
+    "index_fix": "3",
+    "phase_rad": 1.5707963267948966
+  },
+  {
+    "id": "942173776",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R4",
+    "hemisphere": "R",
+    "index_fix": "4",
+    "phase_rad": 2.3122619363064567
+  },
+  {
+    "id": "5813014882",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R5",
+    "hemisphere": "R",
+    "index_fix": "5",
+    "phase_rad": 3.141592653589793
+  },
+  {
+    "id": "912147912",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R6",
+    "hemisphere": "R",
+    "index_fix": "6",
+    "phase_rad": -2.315017645553897
+  },
+  {
+    "id": "1002848661",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R7",
+    "hemisphere": "R",
+    "index_fix": "7",
+    "phase_rad": -1.5707963267948968
+  },
+  {
+    "id": "5813059834",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R8",
+    "hemisphere": "R",
+    "index_fix": "8",
+    "phase_rad": -0.8200555439535949
+  },
+  {
+    "id": "1125969082",
+    "type": "PEG",
+    "instance": "PEG(PB07)_R9",
+    "hemisphere": "R",
+    "index_fix": "9",
+    "phase_rad": -0.12770025055768291
+  },
+  {
+    "id": "1220576923",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L9",
+    "hemisphere": "L",
+    "index_fix": "1",
+    "phase_rad": 0.8066100140426001
+  },
+  {
+    "id": "1127471692",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L8",
+    "hemisphere": "L",
+    "index_fix": "2",
+    "phase_rad": 1.359640650106261
+  },
+  {
+    "id": "508793049",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L7",
+    "hemisphere": "L",
+    "index_fix": "3",
+    "phase_rad": 2.0862587436453106
+  },
+  {
+    "id": "664645558",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L6",
+    "hemisphere": "L",
+    "index_fix": "4",
+    "phase_rad": 2.950247121205805
+  },
+  {
+    "id": "1380495496",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L6",
+    "hemisphere": "L",
+    "index_fix": "4",
+    "phase_rad": 2.964597876329203
+  },
+  {
+    "id": "5813080979",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L5",
+    "hemisphere": "L",
+    "index_fix": "5",
+    "phase_rad": -2.561863177426658
+  },
+  {
+    "id": "757055317",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L4",
+    "hemisphere": "L",
+    "index_fix": "6",
+    "phase_rad": -1.852688554048037
+  },
+  {
+    "id": "849482511",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L4",
+    "hemisphere": "L",
+    "index_fix": "6",
+    "phase_rad": -1.8198932063633453
+  },
+  {
+    "id": "1508334312",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L3",
+    "hemisphere": "L",
+    "index_fix": "7",
+    "phase_rad": -1.0310738947153064
+  },
+  {
+    "id": "634608104",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_L2",
+    "hemisphere": "L",
+    "index_fix": "8",
+    "phase_rad": -0.176195691620403
+  },
+  {
+    "id": "972892437",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R2",
+    "hemisphere": "R",
+    "index_fix": "2",
+    "phase_rad": 0.10571716678281008
+  },
+  {
+    "id": "570461892",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R3",
+    "hemisphere": "R",
+    "index_fix": "3",
+    "phase_rad": 1.0388861222368522
+  },
+  {
+    "id": "509410587",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R4",
+    "hemisphere": "R",
+    "index_fix": "4",
+    "phase_rad": 1.7883663488534793
+  },
+  {
+    "id": "5813056953",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R4",
+    "hemisphere": "R",
+    "index_fix": "4",
+    "phase_rad": 1.6978837937235078
+  },
+  {
+    "id": "910447075",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R5",
+    "hemisphere": "R",
+    "index_fix": "5",
+    "phase_rad": 2.57435548175449
+  },
+  {
+    "id": "663190769",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R6",
+    "hemisphere": "R",
+    "index_fix": "6",
+    "phase_rad": -2.8844133370260243
+  },
+  {
+    "id": "847336755",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R6",
+    "hemisphere": "R",
+    "index_fix": "6",
+    "phase_rad": -2.944202816873361
+  },
+  {
+    "id": "1002507131",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R7",
+    "hemisphere": "R",
+    "index_fix": "7",
+    "phase_rad": -2.084095681100488
+  },
+  {
+    "id": "1125964630",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R8",
+    "hemisphere": "R",
+    "index_fix": "8",
+    "phase_rad": -1.3113812210423856
+  },
+  {
+    "id": "1218732640",
+    "type": "PENa",
+    "instance": "PEN_a(PB06a)_R9",
+    "hemisphere": "R",
+    "index_fix": "9",
+    "phase_rad": -0.7171504199500278
+  },
+  {
+    "id": "1220584946",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L9",
+    "hemisphere": "L",
+    "index_fix": "1",
+    "phase_rad": 0.7801744661579445
+  },
+  {
+    "id": "1600083889",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L9",
+    "hemisphere": "L",
+    "index_fix": "1",
+    "phase_rad": 0.8304953795697199
+  },
+  {
+    "id": "1353544607",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L8",
+    "hemisphere": "L",
+    "index_fix": "2",
+    "phase_rad": 1.3105269420427685
+  },
+  {
+    "id": "1318109929",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L7",
+    "hemisphere": "L",
+    "index_fix": "3",
+    "phase_rad": 2.1530951182059175
+  },
+  {
+    "id": "664650297",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L6",
+    "hemisphere": "L",
+    "index_fix": "4",
+    "phase_rad": 2.9681217677855156
+  },
+  {
+    "id": "879183317",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L6",
+    "hemisphere": "L",
+    "index_fix": "4",
+    "phase_rad": 2.920629814336944
+  },
+  {
+    "id": "1631450739",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L5",
+    "hemisphere": "L",
+    "index_fix": "5",
+    "phase_rad": -2.6465741636686984
+  },
+  {
+    "id": "387023620",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L4",
+    "hemisphere": "L",
+    "index_fix": "6",
+    "phase_rad": -1.9248481696889908
+  },
+  {
+    "id": "539462336",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L4",
+    "hemisphere": "L",
+    "index_fix": "6",
+    "phase_rad": -1.8772871604206196
+  },
+  {
+    "id": "5813070465",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L3",
+    "hemisphere": "L",
+    "index_fix": "7",
+    "phase_rad": -1.1043676022414712
+  },
+  {
+    "id": "5813047157",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_L2",
+    "hemisphere": "L",
+    "index_fix": "8",
+    "phase_rad": -0.20740324760764595
+  },
+  {
+    "id": "724280817",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R2",
+    "hemisphere": "R",
+    "index_fix": "2",
+    "phase_rad": 0.23370653661220955
+  },
+  {
+    "id": "973566036",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R3",
+    "hemisphere": "R",
+    "index_fix": "3",
+    "phase_rad": 1.1140823878876298
+  },
+  {
+    "id": "569775058",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R4",
+    "hemisphere": "R",
+    "index_fix": "4",
+    "phase_rad": 1.7392625838464915
+  },
+  {
+    "id": "663562172",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R4",
+    "hemisphere": "R",
+    "index_fix": "4",
+    "phase_rad": 1.830380997023934
+  },
+  {
+    "id": "849421763",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R5",
+    "hemisphere": "R",
+    "index_fix": "5",
+    "phase_rad": 2.600083030554261
+  },
+  {
+    "id": "941123755",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R6",
+    "hemisphere": "R",
+    "index_fix": "6",
+    "phase_rad": -2.830822586659357
+  },
+  {
+    "id": "1197993940",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R6",
+    "hemisphere": "R",
+    "index_fix": "6",
+    "phase_rad": -2.856272521799768
+  },
+  {
+    "id": "693755250",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R7",
+    "hemisphere": "R",
+    "index_fix": "7",
+    "phase_rad": -2.0026380288558325
+  },
+  {
+    "id": "1062526223",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R8",
+    "hemisphere": "R",
+    "index_fix": "8",
+    "phase_rad": -1.2766240241339273
+  },
+  {
+    "id": "1218728570",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R9",
+    "hemisphere": "R",
+    "index_fix": "9",
+    "phase_rad": -0.8067439121471788
+  },
+  {
+    "id": "1601771527",
+    "type": "PENb",
+    "instance": "PEN_b(PB06b)_R9",
+    "hemisphere": "R",
+    "index_fix": "9",
+    "phase_rad": -0.8217717461098899
+  }
+]
