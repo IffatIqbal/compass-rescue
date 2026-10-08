@@ -1,0 +1,27 @@
+{
+  "dataset": "Janelia hemibrain v1.2.1",
+  "extract_source": "https://github.com/aplbrain/seismic",
+  "commit": "1a789eefc2ca03c1f79e283069e41d20d12ed91f",
+  "raw_sha256": "0ef25fab90a598160235b48c30ac7af895289750df19536e30e9047d8833261f",
+  "neurons": 106,
+  "roi_rows": 2092,
+  "directed_pairs": 1932,
+  "synapses": 46842,
+  "types": {
+    "EPG": 46,
+    "PEG": 18,
+    "PENa": 20,
+    "PENb": 22
+  },
+  "regions": [
+    "EB",
+    "PB"
+  ],
+  "selection": "SEISMIC published extract; traced, noncropped selected EPG/PEN/PEG; Delta7 removed upstream; upstream request min_total_weight=4. Upstream pull_data.py records parameters but has filename formatting bug; archived CSV is canonical for this run.",
+  "model_fit": "nonnegative count-regularized least squares to idealized heading and turn dynamics, not physiological recordings",
+  "fit_mean_mse": 5.072335002244561e-05,
+  "anatomical_edges_added": 0,
+  "supplemental_mechanism": "phenomenological population-mean inhibition with fitted per-cell coefficients; not reconstructed inhibitory synapses",
+  "license": "SEISMIC archive distributed under MIT; preserved notice; cite hemibrain source as well",
+  "matrix_convention": "row postsynaptic; column presynaptic"
+}
